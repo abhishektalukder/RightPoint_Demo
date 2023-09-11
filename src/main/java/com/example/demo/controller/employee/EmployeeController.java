@@ -1,9 +1,9 @@
-package com.example.demo.controller;
+package com.example.demo.controller.employee;
 
 
 import com.example.demo.entity.Employee;
-import com.example.demo.model.EmployeeDto;
-import com.example.demo.service.EmployeeService;
+import com.example.demo.model.employee.EmployeeDto;
+import com.example.demo.service.employee.EmployeeService;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

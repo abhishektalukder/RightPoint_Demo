@@ -2,7 +2,7 @@ package com.example.demo.controller.inventory;
 
 
 import com.example.demo.entity.Employee;
-import com.example.demo.model.Inventory;
+import com.example.demo.model.inventory.Inventory;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 

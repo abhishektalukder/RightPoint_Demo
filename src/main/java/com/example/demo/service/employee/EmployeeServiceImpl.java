@@ -1,7 +1,7 @@
-package com.example.demo.service;
+package com.example.demo.service.employee;
 
 import com.example.demo.entity.Employee;
-import com.example.demo.repository.EmployeeRepository;
+import com.example.demo.repository.employee.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
